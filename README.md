@@ -1,9 +1,10 @@
 # Hi! my name is *Arthur Ferreira*.
 
+## Linguagens que eu uso e estudo:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <br>    
-  <img style="margin: 60px 0px" align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <br>
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+| Linguagem | Descrição |
+|------------|-----------|
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16"> HTML5 | Linguagem de Marcação de Tags |
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> CSS3 | Estilização |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | Interatividade Front-End |
 </div>
