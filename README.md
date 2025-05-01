@@ -1,6 +1,7 @@
 # Hi! my name is *Arthur Ferreira*.
 
-<img src="https://cdn-icons-png.flaticon.com/512/1865/1865273.png" width="56" height="56" alt="Computer">
+<img src="https://cdn-icons-png.flaticon.com/512/1865/1865273.png" width="65" height="65" alt="Computer - Icon">
+<img src="https://cdn-icons-png.flaticon.com/512/13171/13171655.png" width="65" height="65" alt="Visual Studio Code - Icon">
 
 ## 🛠 Linguagens que eu uso e estudo:
 | Linguagem | Descrição |
