@@ -13,4 +13,4 @@
 # Meu MegaProjeto
 | Nome | Sobre |
 |------------|-----------|
-| <a href="https://arthurferreira-dev.github.io/Meu-Site/">Multhingss</a> | Um Youtuber me pediu pra fazer um site sobre ele. |
+| <a href="https://arthurferreira-dev.github.io/Meu-Site/" style="text-decoration: none">Multhingss</a> | Um Youtuber me pediu pra fazer um site sobre ele. |
