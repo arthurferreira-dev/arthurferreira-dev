@@ -9,7 +9,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16"> HTML5 | Linguagem de Marcação de Tags |
 | <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> CSS3 | Estilização do Site |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | Interatividade Front-End |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | Usado no Back-End |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | Automatização |
 
 # Meu MegaProjeto
 | Nome | Sobre |
