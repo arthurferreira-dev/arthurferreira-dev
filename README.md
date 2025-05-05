@@ -14,7 +14,7 @@
 ## Repositório do meus Estudos:
 | Linguagem | Link |
 |------------|-----------|
-| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> HTML5 e CSS3 | [Curso de HTML5 & CSS3 (até Vol. 4)](https://github.com/arthurferreira-dev/HTML---CSS) |
+| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16">  HTML5 e CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> | [Curso de HTML5 & CSS3 (até Vol. 4)](https://github.com/arthurferreira-dev/HTML---CSS) |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | [Curso de JavaScript Completo](https://github.com/arthurferreira-dev/Javascript) |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | [Curso de Python ainda sendo feito...](https://github.com/arthurferreira-dev/Python) |
 
