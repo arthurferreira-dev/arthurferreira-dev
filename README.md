@@ -10,6 +10,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> CSS3 | Estilização do Site |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | Interatividade Front-End |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | Automatização |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | Desenvolvimento de aplicações presentes e atuantes no lado do servidor |
 
 ## Repositório do meus Estudos:
 | Linguagem | Link |
@@ -17,6 +18,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16">  HTML5 e CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> | [Curso de HTML5 & CSS3 (até Vol. 4)](https://github.com/arthurferreira-dev/HTML---CSS) |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | [Curso de JavaScript Completo](https://github.com/arthurferreira-dev/Javascript) |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | [Curso de Python ainda sendo feito...](https://github.com/arthurferreira-dev/Python) |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | [Curso de PHP (Fazendo o Volume 1)](https://github.com/arthurferreira-dev/PHP-Moderno) |
 
 # Meu MegaProjeto
 | Nome | Sobre |
