@@ -10,7 +10,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> CSS3 | Estilização do Site |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | Interatividade Front-End |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | Automatização |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | Desenvolvimento de aplicações presentes e atuantes no lado do servidor |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | Desenvolvimento de aplicações no lado do servidor |
 
 ## Repositório do meus Estudos:
 | Linguagem | Link |
