@@ -1,4 +1,4 @@
-# Hi! my name is *Arthur Ferreira*.
+# Olá! meu nome é *Arthur Ferreira*.
 
 <img src="https://cdn-icons-png.flaticon.com/512/1865/1865273.png" width="65" height="65" alt="Computer - Icon">
 <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="65" height="65" alt="Visual Studio Code - Icon">
