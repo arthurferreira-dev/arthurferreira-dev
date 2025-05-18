@@ -24,3 +24,4 @@
 | Nome | Sobre |
 |------------|-----------|
 | <a href="https://arthurferreira-dev.github.io/Meu-Site/" style="text-decoration: none">Multhingss</a> | Um Youtuber me pediu pra fazer um site sobre ele. |
+| <a href="https://arthurferreira-dev.github.io/site_andregames/index.html" style="text-decoration: none">André Games</a> | Meu melhor amigo tem um canal no Youtube e eu fiz um site pra ele. |
