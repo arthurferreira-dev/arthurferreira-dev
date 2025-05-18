@@ -23,5 +23,5 @@
 # Meu MegaProjeto
 | Nome | Sobre |
 |------------|-----------|
-| <p style="text-align: center;">><a href="https://arthurferreira-dev.github.io/Meu-Site/" style="text-decoration: none; text-align: center;">Multhingss</a></p> | Um Youtuber me pediu pra fazer um site sobre ele. |
+| <p style="text-align: center;"><a href="https://arthurferreira-dev.github.io/Meu-Site/" style="text-decoration: none; text-align: center;">Multhingss</a></p> | Um Youtuber me pediu pra fazer um site sobre ele. |
 | <p style="text-align: center;"><a href="https://arthurferreira-dev.github.io/site_andregames/index.html" style="text-decoration: none; text-align: center;">André Games</a></p> | Meu melhor amigo tem um canal no Youtube e eu fiz um site pra ele. |
