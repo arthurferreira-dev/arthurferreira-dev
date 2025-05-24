@@ -13,7 +13,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | Desenvolvimento de aplicações no lado do servidor |
 
 ## Repositório do meus Estudos:
-| Linguagem | Link |
+| Linguagem | Repositórios |
 |------------|-----------|
 | <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16">  HTML5 e CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> | [Curso de HTML5 & CSS3 (até Vol. 4)](https://github.com/arthurferreira-dev/HTML---CSS) |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | [Curso de JavaScript Completo](https://github.com/arthurferreira-dev/Javascript) |
