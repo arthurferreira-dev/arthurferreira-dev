@@ -11,7 +11,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | Interatividade Front-End |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | Automatização |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | Desenvolvimento de aplicações no lado do servidor |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="16"></img> TypeScript | um superconjunto sintático estrito e tipagem estática opcional de JS |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="16"> TypeScript | Um superconjunto sintático estrito e tipagem estática opcional de JS |
 
 ## Repositório do meus Estudos:
 | Linguagem | Repositórios |
@@ -20,6 +20,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | [Curso de JavaScript Completo](https://github.com/arthurferreira-dev/Javascript) |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | [Curso de Python ainda sendo feito...](https://github.com/arthurferreira-dev/Python) |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | [Curso de PHP (Módulo 01 Finalizado)](https://github.com/arthurferreira-dev/PHP-Moderno) |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="16"> TypeScript | [Curso de TypeScript (Fazendo...)](https://github.com/arthurferreira-dev/TypeScript) |
 
 # Meu MegaProjeto
 | Nome | Sobre |
