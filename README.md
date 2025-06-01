@@ -11,7 +11,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | Interatividade Front-End |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | Automatização |
 | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | Desenvolvimento de aplicações no lado do servidor |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="16"></img> TypeScript | um superconjunto sintático estrito de JS e adiciona tipagem estática opcional à linguagem |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="16"></img> TypeScript | um superconjunto sintático estrito e tipagem estática opcional de JS |
 
 ## Repositório do meus Estudos:
 | Linguagem | Repositórios |
