@@ -32,7 +32,7 @@
 | Language | Repository |
 |------------|-----------|
 | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript | [Repository from JavaScript](https://gitlab.com/arthurferreira-dev/Javascript) |
-| | [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) HTML5 and CSS3 | [Repository from HTML5 and CSS3](https://gitlab.com/arthurferreira-dev/HTML-CSS) |
+| [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) HTML5 and CSS3 |[Repository from HTML5 and CSS3](https://gitlab.com/arthurferreira-dev/HTML-CSS) |
 | [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) PHP | [Repository from PHP (PHP7 and PHP8)](https://gitlab.com/arthurferreira-dev/PHP-Moderno) |
 | [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) TypeScript | [Repository from TypeScript](https://gitlab.com/arthurferreira-dev/TypeScript) |
 
