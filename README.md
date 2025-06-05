@@ -1,29 +1,40 @@
-# Olá! meu nome é *Arthur Ferreira*.
+# Hi there! my name is *Arthur Ferreira*.
 
-<img src="https://cdn-icons-png.flaticon.com/512/1865/1865273.png" width="65" height="65" alt="Computer - Icon">
-<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="65" height="65" alt="Visual Studio Code - Icon">
+## My codes editor 💻:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql" />
+  </a>
+</p>
 
-## 🛠 Linguagens que eu uso e estudo:
-| Linguagem | Descrição |
+## 🛠 I have a basic notion in this Languagens:
+| Language | Description |
 |------------|-----------|
-| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16"> HTML5 | Linguagem de Marcação de Tags |
-| <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> CSS3 | Estilização do Site |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | Interatividade Front-End |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | Automatização |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | Desenvolvimento de aplicações no lado do servidor |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="16"> TypeScript | Um superconjunto sintático estrito e tipagem estática opcional de JS |
+| [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML | Hypertext Markup Language from Tags |
+| [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS | Cascading Style Sheets use for Website styling |
+| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript | Add interactivity to web pages (Front-End or Client-Side) |
+| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Python | He is used in web development, data analysis, and machine learning, offering a robust standard library and numerous third-party modules |
+| [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) PHP | Focused on server-side scripting, so it can do anything any other CGI program can do, such as collect form data, generate dynamic page content, or send and receive cookies. But you can do much more  |
+| [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) TypeScript | He adds a optional static typing, which allows developers to define the types of variables, functions, and other elements in their code. This helps to catch errors during development rather than at runtime, improving code reliability and maintainability |
 
-## Repositório do meus Estudos:
-| Linguagem | Repositórios |
+## Repositories from my studies:
+| Language | Repository |
 |------------|-----------|
-| <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="16">  HTML5 e CSS3 <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="16"> | [Curso de HTML5 & CSS3 (até Vol. 4)](https://github.com/arthurferreira-dev/HTML---CSS) |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="16"> JavaScript | [Curso de JavaScript Completo](https://github.com/arthurferreira-dev/Javascript) |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="16"> Python | [Curso de Python ainda sendo feito...](https://github.com/arthurferreira-dev/Python) |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="16"> PHP | [Curso de PHP (Módulo 01 Finalizado)](https://github.com/arthurferreira-dev/PHP-Moderno) |
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="16"> TypeScript | [Curso de TypeScript (Fazendo...)](https://github.com/arthurferreira-dev/TypeScript) |
+| [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) HTML5 and CSS3 | [Course from HTML5 and CSS3 (Stop as far as Vol. 4)](https://github.com/arthurferreira-dev/HTML---CSS) |
+| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript | [Course from JavaScript Complete](https://github.com/arthurferreira-dev/Javascript) |
+| [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Python | [Course from Python learning...](https://github.com/arthurferreira-dev/Python) |
+| [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) PHP | [Course from PHP (Finish Module 01)](https://github.com/arthurferreira-dev/PHP-Moderno) |
+| [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) TypeScript | [Course from TypeScript (Learning...)](https://github.com/arthurferreira-dev/TypeScript) |
 
-# Meu MegaProjeto
-| Nome | Sobre |
+## Follow me in the Gitlab:
+[![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+
+| Language | Repository |
 |------------|-----------|
-| <p style="text-align: center;"><a href="https://arthurferreira-dev.github.io/Meu-Site/" style="text-decoration: none; text-align: center;">Multhingss</a></p> | Um Youtuber me pediu pra fazer um site sobre ele. |
-| <p style="text-align: center;"><a href="https://arthurferreira-dev.github.io/site_andregames/index.html" style="text-decoration: none; text-align: center;">André Games</a></p> | Meu melhor amigo tem um canal no Youtube e eu fiz um site pra ele. |
+| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript | [Repository from JavaScript](https://gitlab.com/arthurferreira-dev/Javascript) |
+| | [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) HTML5 and CSS3 | [Repository from HTML5 and CSS3](https://gitlab.com/arthurferreira-dev/HTML-CSS) |
+| [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) PHP | [Repository from PHP (PHP7 and PHP8)](https://gitlab.com/arthurferreira-dev/PHP-Moderno) |
+| [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) TypeScript | [Repository from TypeScript](https://gitlab.com/arthurferreira-dev/TypeScript) |
+
+### Font from the Icons:
+<a href="https://skillicons.dev">Skill Icons Dev</a>
