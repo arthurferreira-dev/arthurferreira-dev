@@ -56,4 +56,5 @@
 
 ### Font from the Icons:
 <a href="https://skillicons.dev">Skill Icons Dev</a>
+<br>
 <a href="https://iconduck.com">Icon Duck</a>
