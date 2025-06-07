@@ -1,5 +1,12 @@
 # Hi there! my name is *Arthur Ferreira*.
 
+## My Operation System 🔧:
+<p align="center">
+  <a her="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows" />
+  </a>
+</p>
+
 ## My codes editor 💻:
 <p align="center">
   <a href="https://skillicons.dev">
