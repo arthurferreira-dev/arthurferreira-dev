@@ -17,7 +17,7 @@
 ## My Tools Server 🛠:
 <p align="center">
   <a href="https://iconduck.com/icons/95096/xampp">
-    <img src="icons/xampp.svg" height="45px" />
+    <img src="icons/xampp.svg" height="47px" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" />
