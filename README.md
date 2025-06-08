@@ -1,4 +1,4 @@
-# Hi there! my name is *Arthur Ferreira*.
+# Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> there! my name is *Arthur Ferreira*.
 
 ## My Operation System 🔧:
 <p align="center">
