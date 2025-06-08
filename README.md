@@ -55,6 +55,6 @@
 | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Python | [Repository from Python](https://gitlab.com/arthurferreira-dev/Python) |
 
 ### Font from the Icons:
-<a href="https://skillicons.dev">Skill Icons Dev</a>
+<a href="https://skillicons.dev" target="_blank">Skill Icons Dev</a>
 <br>
-<a href="https://iconduck.com">Icon Duck</a>
+<a href="https://iconduck.com" target="_blank">Icon Duck</a>
