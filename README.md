@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql" />
   </a>
   <a href="https://spck.io/">
-    <img src="icons/spck-code-editor.png" heigth="47px" width="47px" />
+    <img src="icons/spck-code-editor-icon.png" heigth="47px" width="47px" />
   </a>
 </p>
 
