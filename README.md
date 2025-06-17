@@ -22,7 +22,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-  <a>
+  <a href="https://spck.io/">
     <img src="icons/spck-code-editor.svg" heigth="47px" width="47px" />
   </a>
 </p>
