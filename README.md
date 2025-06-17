@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
   <a>
-    <img src="icons/spck-code-editor.svg" heigth="47px" />
+    <img src="icons/spck-code-editor.svg" heigth="18px" />
   </a>
 </p>
 
