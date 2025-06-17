@@ -22,6 +22,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
+  <a>
+    <img src="icons/spck-code-editor.svg" heigth="47px" />
+  </a>
 </p>
 
 ## 🛠 I have a basic notion in this Languagens:
