@@ -37,7 +37,7 @@
 ## Repositories from my studies:
 | Language | Repository |
 |------------|-----------|
-| [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) HTML5 and CSS3 | [Course from HTML5 and CSS3 (Stop as far as Vol. 4)](https://github.com/arthurferreira-dev/HTML---CSS) |
+| [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) HTML5 and CSS3 | [Course from HTML5 and CSS3 (Learning Vol. 5 😁)](https://github.com/arthurferreira-dev/HTML---CSS) |
 | [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript | [Course from JavaScript Complete](https://github.com/arthurferreira-dev/Javascript) |
 | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) Python | [Course from Python learning...](https://github.com/arthurferreira-dev/Python) |
 | [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev) PHP | [Course from PHP (Finish Module 01)](https://github.com/arthurferreira-dev/PHP-Moderno) |
