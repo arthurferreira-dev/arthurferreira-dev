@@ -62,7 +62,11 @@
 
 | Project | Repository |
 |------------|-----------|
-| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) <br> Calculadora Mestre | [Link from Repository](https://bitbucket.org/arthurferreira-dev/calculadora-mestre/src/main/) |
+| [<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+</p> <br> Calculadora Mestre | [Link from Repository](https://bitbucket.org/arthurferreira-dev/calculadora-mestre/src/main/) |
 
 ### Font from the Icons:
 <a href="https://skillicons.dev" target="_blank">Skill Icons Dev</a>
