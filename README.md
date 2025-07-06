@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="12"> there! my name is <strong>Arthur Ferreira</strong>.</h1>
+<h1 align="center">Hi <img src="icons/hi.gif" height="12"> there! my name is <strong>Arthur Ferreira</strong>.</h1>
 
 <h2 align="center">--- My Operation System 🔧 ---</h2>
 <p align="center">
