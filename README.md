@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="icons/hi.gif" height="12"> there! my name is <strong>Arthur Ferreira</strong>.</h1>
+<h1 align="center">Hi <img src="icons/hi.gif" height="42"> there! my name is <strong>Arthur Ferreira</strong>.</h1>
 
 <h2 align="center">--- My Operation System 🔧 ---</h2>
 <p align="center">
@@ -45,7 +45,7 @@
 ## My recent repositories:
 | Name | Link |
 | ---- | ---- |
-| ``IMC`` | <a href="https://github.com/arthurferreira-dev/Indice-de-Massa-Corporal-IMC" align="center"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6a%2FJavaScript-logo.png&f=1&nofb=1&ipt=baf76d4b80e456aad02bd8dafba5651d0ec5fb2497189e113ea0bcb54f011a3a" height="30"></a>
+| ``IMC`` | <a href="https://github.com/arthurferreira-dev/Indice-de-Massa-Corporal-IMC"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F6a%2FJavaScript-logo.png&f=1&nofb=1&ipt=baf76d4b80e456aad02bd8dafba5651d0ec5fb2497189e113ea0bcb54f011a3a" height="40"></a>
 | Como usar o ``README.md`` | <a href="https://github.com/arthurferreira-dev/Como-usar-o-README.md"><img src="icons/5883-markdown.svg" height="25"></a> |
 | ``Crônometro Digital`` | <a href="https://github.com/arthurferreira-dev/Cronometro-Digital"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fa-static.mlcdn.com.br%2F1500x1500%2Fcronometro-de-mao-digital-esportivo-com-bussola-monaliza%2Fcomercialize%2F9603569166%2Fd71bd631cc0be55c8fe43d0faa55eb1b.jpg&f=1&nofb=1&ipt=fa5558f486cd02bc388fa98ad1c951497b77c63a54efefea4d2fd86d33ec44f0" height="50"></a> |
 
