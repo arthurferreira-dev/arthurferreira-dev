@@ -71,3 +71,13 @@
 <a href="https://skillicons.dev" target="_blank">Skill Icons Dev</a>
 <br>
 <a href="https://iconduck.com" target="_blank">Icon Duck</a>
+
+<h2 align="center">My Versions</h2>
+
+<p align="center">
+<a href="docs/dd.md">Development Demo</a>
+</p>
+
+<p align="center">
+<a href="docs/db.md">Development Beta</a>
+</p>
