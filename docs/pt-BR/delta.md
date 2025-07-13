@@ -3,7 +3,7 @@
 <p align="center"><strong>Arthur Ferreira Dev</strong></p>
 
 <div align="center">
-    <a href="">English</a>
+    <a href="../en-US/delta.md">English</a>
     <span>•</span>
     <a href="../es-ES/delta.md">Español</a>
     <span>•</span>

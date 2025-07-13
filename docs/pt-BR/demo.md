@@ -2,7 +2,7 @@
 <p align="center"><strong>Arthur Ferreira Dev</strong></p>
 
 <div align="center">
-    <a href="../en-US/">English</a>
+    <a href="../en-US/demo.md">English</a>
     <span>•</span>
     <a href="../es-ES/demo.md">Español</a>
     <span>•</span>
