@@ -4,7 +4,7 @@
 <div align="center">
     <a href="../en-US/">English</a>
     <span>•</span>
-    <a href="../es-ES/">Español</a>
+    <a href="../es-ES/demo.md">Español</a>
     <span>•</span>
     <a href="../fr-FR/">Français</a>
     <span>•</span>

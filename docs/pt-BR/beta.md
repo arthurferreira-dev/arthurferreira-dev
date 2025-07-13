@@ -5,7 +5,7 @@
 <div align="center">
     <a href="">English</a>
     <span>•</span>
-    <a href="">Español</a>
+    <a href="../es-ES/beta.md">Español</a>
     <span>•</span>
     <a href="">Français</a>
     <span>•</span>
