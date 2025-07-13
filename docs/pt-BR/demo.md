@@ -6,7 +6,7 @@
     <span>•</span>
     <a href="../es-ES/demo.md">Español</a>
     <span>•</span>
-    <a href="../fr-FR/">Français</a>
+    <a href="../fr-FR/demo.md">Français</a>
     <span>•</span>
     <a href="../it-IT/">Italiano</a>
 </div>

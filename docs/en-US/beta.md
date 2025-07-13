@@ -7,7 +7,7 @@
     <span>•</span>
     <a href="../es-ES/beta.md">Español</a>
     <span>•</span>
-    <a href="">Français</a>
+    <a href="../fr-FR/beta.md">Français</a>
     <span>•</span>
     <a href="">Italiano</a>
 </div>
