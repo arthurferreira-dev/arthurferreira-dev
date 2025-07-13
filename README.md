@@ -35,7 +35,17 @@
 <img src="https://img.shields.io/badge/PHP-3e2ef0?style=for-the-badge&logo=php&logoColor=white" alt="PHP - shields.io">
 <img src="https://img.shields.io/badge/TypeScript-0c69f5?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript - shields.io">
 </div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurferreira-dev&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
+</div>
+<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurferreira-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&hide=issues">
+</div>
+
+<br>
 <h2 align="center"> Follow me in the Gitlab: </h2>
 
 <div align="center"><img src="https://skillicons.dev/icons?i=gitlab"></img></div>
