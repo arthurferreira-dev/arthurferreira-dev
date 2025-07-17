@@ -73,10 +73,6 @@
           <td align="center"><a href="https://gitlab.com/arthurferreira-dev/PHP-Moderno">Repository from PHP (PHP7 and PHP8)</a></td>
         </tr>
         <tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=ts"></td>
-          <td align="center"><a href="https://gitlab.com/arthurferreira-dev/TypeScript">Repository from TypeScript</a></td>
-        </tr>
-        <tr>
           <td align="center"><img src="https://skillicons.dev/icons?i=py"></td>
           <td align="center"><a href="https://gitlab.com/arthurferreira-dev/Python">Repository from Python</a></td>
         </tr>
@@ -96,6 +92,10 @@
       <tr>
         <td aling="center"><img src="https://skillicons.dev/icons?i=js"></td>
         <td><a href="https://bitbucket.org/arthurferreira-dev/calculadora-mestre/src/main/">Calculadora Mestre</a></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="https://skillicons.dev/icons?i=js"></td>
+        <td><a href="https://bitbucket.org/arthurferreira-dev/simples.js/src/main/">Simples.js</a></td>
       </tr>
   </tbody>
 </table>
