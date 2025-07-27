@@ -4,32 +4,58 @@
 
 <h1 align="center">Hi <img src="icons/hi.gif" height="42"> there! my name is <strong>Arthur Ferreira</strong>.</h1>
 
-<h2 align="center">--- My Operation System 🔧 ---</h2>
+<div align="center">
+<details>
+<summary>--- My Operation System 🔧 ---</summary>
+<br>
 <p align="center">
   <a her="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows" />
   </a>
 </p>
+</details>
 
-<h2 align="center">--- My codes editor 💻 ---</h2>
+<details>
+<summary>--- My codes editor 💻 ---</summary>
+<br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,mysql" />
   <a href="https://spck.io/">
     <img src="icons/spck-code-editor-icon.png" heigth="47px" width="47px" />
   </a>
 </p>
+</details>
 
-<h2 align="center">--- My Tools Server 🛠 ---</h2>
+<details>
+<summary>--- My Tools 🛠 ---</summary>
+<br>
 <p align="center">
   <a href="https://iconduck.com/icons/95096/xampp">
     <img src="icons/xampp.svg" height="47px" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=git">
+  <img src="https://skillicons.dev/icons?i=vercel">
+</p>
+</details>
+
+<details>
+<summary>Follow me in...</summary>
+<br>
+<p align="center">
+  <a href="https://github.com/arthurferreira-dev">
+    <img src="https://skillicons.dev/icons?i=github">
+  </a>
+  <a href="https://gitlab.com/arthurferreira-dev">
+    <img src="https://skillicons.dev/icons?i=gitlab">
+  </a>
+  <a href="https://x.com/Ferrerita_YT">
+    <img src="https://skillicons.dev/icons?i=twitter">
   </a>
 </p>
+</details>
+
+</div>
 
 <h2 align="center">I have a basic notion in:</h2>
 <div align="center">
@@ -38,8 +64,12 @@
 <img src="https://img.shields.io/badge/CSS-1094e0?style=for-the-badge&logo=css&logoColor=white" alt="CSS - shields.io">
 <img src="https://img.shields.io/badge/PHP-3e2ef0?style=for-the-badge&logo=php&logoColor=white" alt="PHP - shields.io">
 <img src="https://img.shields.io/badge/TypeScript-0c69f5?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript - shields.io">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 <br>
+
+<h2 align="center"><strong>Github Stats</strong></h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurferreira-dev&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
 </div>
@@ -50,7 +80,7 @@
 </div>
 
 <br>
-<h2 align="center"> Follow me in the Gitlab: </h2>
+<h2 align="center">My repositories in the Gitlab:</h2>
 
 <div align="center"><img src="https://skillicons.dev/icons?i=gitlab"></img></div>
 <br>
@@ -79,7 +109,7 @@
     </tbody>
 </table>
 
-<h2 align="center">Follow me in the BitBucket:</h2>
+<h2 align="center">My Repositories in the BitBucket:</h2>
 
 <div align="center"><img src="https://skillicons.dev/icons?i=bitbucket"></div>
 <br>
