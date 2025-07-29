@@ -59,16 +59,20 @@
 
 <h2 align="center">I have a basic notion in:</h2>
 <div align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript - shields.io">
-<img src="https://img.shields.io/badge/HTML5-e06d14?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 - shields.io">
-<img src="https://img.shields.io/badge/CSS-1094e0?style=for-the-badge&logo=css&logoColor=white" alt="CSS - shields.io">
 <img src="https://img.shields.io/badge/PHP-3e2ef0?style=for-the-badge&logo=php&logoColor=white" alt="PHP - shields.io">
 <img src="https://img.shields.io/badge/TypeScript-0c69f5?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript - shields.io">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </div>
 <br>
 
+<h2 align="center">I have experience in:</h2>
+
 <h2 align="center"><strong>Github Stats</strong></h2>
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-e06d14?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 - shields.io">
+<img src="https://img.shields.io/badge/CSS-1094e0?style=for-the-badge&logo=css&logoColor=white" alt="CSS - shields.io">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS - shields.io">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript - shields.io">
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurferreira-dev&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
