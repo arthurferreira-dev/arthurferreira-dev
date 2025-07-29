@@ -65,8 +65,6 @@
 <br>
 
 <h2 align="center">I have experience in:</h2>
-
-<h2 align="center"><strong>Github Stats</strong></h2>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-e06d14?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 - shields.io">
 <img src="https://img.shields.io/badge/CSS-1094e0?style=for-the-badge&logo=css&logoColor=white" alt="CSS - shields.io">
@@ -74,6 +72,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript - shields.io">
 </div>
 
+<h2 align="center"><strong>Github Stats</strong></h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurferreira-dev&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
 </div>
