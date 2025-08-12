@@ -5,6 +5,10 @@
 <h1 align="center">Hi <img src="icons/hi.gif" height="42"> there! my name is <strong>Arthur Ferreira</strong>.</h1>
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=arthurferreiradev&style=for-the-badge&color=7300e6">
+</div>
+
+<div align="center">
 <details>
 <summary>--- My Operation System 🔧 ---</summary>
 <br>
