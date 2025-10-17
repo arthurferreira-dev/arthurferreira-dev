@@ -66,7 +66,6 @@
 <img src="https://img.shields.io/badge/PHP-3e2ef0?style=for-the-badge&logo=php&logoColor=white" alt="PHP - shields.io">
 <img src="https://img.shields.io/badge/TypeScript-0c69f5?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript - shields.io">
 <img src="https://img.shields.io/badge/React-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="React - shields.io">
-<img src="https://img.shields.io/badge/SASS-c69?style=for-the-badge&logo=sass&logoColor=white" alt="Sass/Scss - shields.io">
 </div>
 <br>
 
@@ -76,6 +75,7 @@
 <img src="https://img.shields.io/badge/CSS-1094e0?style=for-the-badge&logo=css&logoColor=white" alt="CSS - shields.io">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS - shields.io">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript - shields.io">
+<img src="https://img.shields.io/badge/SASS-c69?style=for-the-badge&logo=sass&logoColor=white" alt="Sass/Scss - shields.io">
 </div>
 
 <h2 align="center"><strong>Github Stats</strong></h2>
