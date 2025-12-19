@@ -86,7 +86,7 @@
 
 <h2 align="center"><strong>Github Stats</strong></h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurferreira-dev&layout=compact&langs_count=7&theme=midnight-purple&hide=scss,hack" alt="I don´t use SCSS and HACK">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurferreira-dev&layout=compact&langs_count=7&theme=midnight-purple&hide=hack" alt="I don´t use HACK">
 </div>
 <br>
 
